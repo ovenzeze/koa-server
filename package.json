@@ -1,4 +1,4 @@
-npm init{
+{
   "name": "koa-server",
   "version": "1.0.0",
   "description": "a simple koa server for clayz.top",
@@ -24,5 +24,6 @@ npm init{
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
     "koa2-connect-history-api-fallback": "0.0.6"
-  }
+  },
+  "devDependencies": {}
 }
