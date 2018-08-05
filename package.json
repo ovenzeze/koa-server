@@ -1,4 +1,4 @@
-{
+npm init{
   "name": "koa-server",
   "version": "1.0.0",
   "description": "a simple koa server for clayz.top",
